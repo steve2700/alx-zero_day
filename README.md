@@ -1,1 +1,3 @@
-My first readme
+
+stewart the coder
+Im good at coding
